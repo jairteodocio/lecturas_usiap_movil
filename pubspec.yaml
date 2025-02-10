@@ -9,6 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  sqflite: ^2.3.3+1
+  path:
+  mobile_scanner:
+  firebase_core:
+  cloud_firestore:
+  connectivity_plus:
 
 dev_dependencies:
   flutter_test:

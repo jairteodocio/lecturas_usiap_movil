@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "123943699003",
+    "project_id": "descarga-83ae7",
+    "storage_bucket": "descarga-83ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123943699003:android:ef5e99b8427b3d7bca521e",
+        "android_client_info": {
+          "package_name": "com.example.asitencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLD314XR4_UNPFMqVVPvWzhLxjITzkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123943699003:android:5ce219ed02f29103ca521e",
+        "android_client_info": {
+          "package_name": "com.example.lecturas_usiap_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLD314XR4_UNPFMqVVPvWzhLxjITzkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123943699003:android:e3b50a0b240c3a2fca521e",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLD314XR4_UNPFMqVVPvWzhLxjITzkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123943699003:android:b6980691f9630343ca521e",
+        "android_client_info": {
+          "package_name": "com.example.usiaprj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLD314XR4_UNPFMqVVPvWzhLxjITzkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123943699003:android:4462d04e5e9730dbca521e",
+        "android_client_info": {
+          "package_name": "com.example.usiaprj_windows"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLD314XR4_UNPFMqVVPvWzhLxjITzkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123943699003:android:4a2956b7f002e6cfca521e",
+        "android_client_info": {
+          "package_name": "com.example.zafiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLD314XR4_UNPFMqVVPvWzhLxjITzkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
